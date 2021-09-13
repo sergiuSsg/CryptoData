@@ -1,6 +1,5 @@
 import React from "react"
 
-
 function Header({handleChange}) {
     return (
         <header className='header-container'>
